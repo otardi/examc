@@ -11,4 +11,5 @@ int main(void){
 	for (int i=0;i<ii/(iii);i++){
 		printf("%c",c[i]);
 	}
+	printf("\n");
 }
